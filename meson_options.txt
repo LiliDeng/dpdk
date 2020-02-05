@@ -1,4 +1,4 @@
-# Please keep these options sorted alphabetically.
+# Please keep these options sorted alphabetically
 
 option('disable_drivers', type: 'string', value: '',
 	description: 'Comma-separated list of drivers to explicitly disable.')
